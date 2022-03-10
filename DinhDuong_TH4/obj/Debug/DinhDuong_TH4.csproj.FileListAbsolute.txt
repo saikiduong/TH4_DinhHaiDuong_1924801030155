@@ -1,0 +1,16 @@
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\NUnit3.TestAdapter.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\nunit.engine.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\nunit.engine.api.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\nunit.engine.core.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\testcentric.engine.metadata.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\DinhDuong_TH4.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\DinhDuong_TH4.pdb
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\nunit.framework.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\WebDriver.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\bin\Debug\nunit.framework.xml
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\obj\Debug\DinhDuong_TH4.csproj.AssemblyReference.cache
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\obj\Debug\DinhDuong_TH4.csproj.CoreCompileInputs.cache
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\obj\Debug\DinhDuong_TH4.csproj.CopyComplete
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\obj\Debug\DinhDuong_TH4.dll
+D:\Web\DinhHaiDuong_TH4\DinhDuong_TH4\obj\Debug\DinhDuong_TH4.pdb
